@@ -1,6 +1,3 @@
-> [!IMPORTANT]  
-> The domain `crates.pm` is still being registered.
-
 # crates.pm
 > A redirect-only Cloudflare Worker to `crates.io/crates/*path`
 
